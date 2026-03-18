@@ -9,6 +9,22 @@ Where an application is received that is invalid and a fee has been paid, even i
 
 Where the requested information is received, and the application is accepted as valid then the application should be treated as valid from the date it was first made, not the date the further information was received. The effect of this is that where the original application was made in time and the application was ‘validated’ at a later date, the person’s section 3C leave will start from the date when their extant leave expires, even if the correct fee was not received until after that date.
 
+### 3C leave lapses if the applicant leaves the United Kingdom, even if travelling within the Common Travel Area.
+
+From Immigration Act 1971, Section 3C, [https://www.legislation.gov.uk/ukpga/1971/77/section/3C](https://www.legislation.gov.uk/ukpga/1971/77/section/3C), accessed 2026-03-18
+
+Quote:  
+(3) Leave extended by virtue of this section shall lapse if the applicant leaves the United Kingdom.
+
+# Application for leave to remain
+
+### A pending application for permission to stay is treated as withdrawn if the applicant travels outside the Common Travel Area.
+
+From Immigration Rules, [https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-1-leave-to-enter-or-stay-in-the-uk](https://www.gov.uk/guidance/immigration-rules/immigration-rules-part-1-leave-to-enter-or-stay-in-the-uk), accessed 2026-03-18
+
+Quote:  
+34K. Where a decision on an application for permission to stay has not been made and the applicant travels outside the common travel area their application will be treated as withdrawn on the date the applicant left the common travel area.
+
 # Variation and amendment of an application 
 
 ### Variation of an application will result in the refund of the original application, after paying the full fee of the new application.
