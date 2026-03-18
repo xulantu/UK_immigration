@@ -79,6 +79,24 @@ From Immigration Rules, [https://www.gov.uk/guidance/immigration-rules/immigrati
 Quote:  
 SW 18.1. The applicant will be granted entry clearance or permission to stay until 14 days after the end date of their certificate of sponsorship (the end date of the certificate of sponsorship may be up to a maximum of 5 years after the start date of their certificate of sponsorship), subject to SW 18.1A.
 
+### The application fee and the IHS are charged according to the CoS length, not the visa grant length. The 14-day buffer after CoS expiry does not affect either.
+
+From The Immigration and Nationality (Fees) Regulations 2018, Schedule 2, Table 6, [https://www.legislation.gov.uk/uksi/2018/330/schedule/2](https://www.legislation.gov.uk/uksi/2018/330/schedule/2), accessed 2026-03-18
+
+Quote:  
+6.2.6A. Application for limited leave to remain in the United Kingdom under Appendix Skilled Worker to the immigration rules, other than as the dependant partner or dependant child of a Skilled Worker, where a certificate of sponsorship has been issued for a period of three years or less.  
+6.2.6B. Application for limited leave to remain in the United Kingdom under Appendix Skilled Worker to the immigration rules, other than as the dependant partner or dependant child of a Skilled Worker, where a certificate of sponsorship has been issued for a period of more than three years.
+
+From The Immigration (Health Charge) Order 2015, Article 4(4), [https://www.legislation.gov.uk/uksi/2015/792/article/4](https://www.legislation.gov.uk/uksi/2015/792/article/4), accessed 2026-03-18
+
+Quote:  
+(4) Where a person applies for leave to remain for a limited period under a paragraph of the immigration rules, the person must pay the specified annual amount for each year of the maximum period of leave to remain which could be granted pursuant to the application under the immigration rules in respect of that paragraph.
+
+From Guidance Immigration Health Surcharge: caseworker guidance, [https://www.gov.uk/government/publications/immigration-health-surcharge-caseworker-guidance/immigration-health-surcharge-caseworker-guidance-accessible](https://www.gov.uk/government/publications/immigration-health-surcharge-caseworker-guidance/immigration-health-surcharge-caseworker-guidance-accessible), accessed 2026-03-18
+
+Quote:  
+For Skilled Worker permission to stay applications, the IHS liability will be calculated based on the contract start and contract end dates listed on the Certificate of Sponsorship (COS).
+
 ### Worker can start working as soon as the visa is granted, even if it is before the start of CoS
 
 From Guidance Workers and Temporary Workers: guidance for sponsors part 2: sponsor a worker – general information, [https://www.gov.uk/government/publications/workers-and-temporary-workers-guidance-for-sponsors-part-2-sponsor-a-worker/workers-and-temporary-workers-guidance-for-sponsors-part-2-sponsor-a-worker-general-information-accessible](https://www.gov.uk/government/publications/workers-and-temporary-workers-guidance-for-sponsors-part-2-sponsor-a-worker/workers-and-temporary-workers-guidance-for-sponsors-part-2-sponsor-a-worker-general-information-accessible), accessed 2026-01-31
